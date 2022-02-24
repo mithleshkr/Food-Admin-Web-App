@@ -1,0 +1,29 @@
+{
+  "food": [
+    {
+      "fname": "Apple",
+      "fdetail": "fiber rich",
+      "fcal": "452",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "fname": "orange",
+      "fdetail": "fhhfrh",
+      "fcal": "78",
+      "id": 2
+    }
+  ],
+  "user": [
+    {
+      "uname": "mithkk",
+      "age": "23",
+      "height": "170",
+      "weight": "60",
+      "username": "mith123",
+      "password": "123@mith",
+      "userId": 1,
+      "id": 1
+    }
+  ]
+}
